@@ -1,0 +1,111 @@
+BTEC Yakuniy Topshiriq
+1-qism: A o'quv maqsadi
+Malaka	Pearson BTEC Xalqaro 3-daraja Sertifikati — Axborot Texnologiyalari
+Pearson BTEC Xalqaro 3-daraja Yordamchi Diplomi — Axborot Texnologiyalari
+Pearson BTEC Xalqaro 3-daraja Asosiy Diplomi — Axborot Texnologiyalari
+Pearson BTEC Xalqaro 3-daraja Diplomi — Axborot Texnologiyalari
+Pearson BTEC 3-daraja Milliy Kengaytirilgan Diplomi — Axborot Texnologiyalari
+Bo'lim raqami va nomi	Bo'lim 20: Biznes-jarayonlarni modellashtirish vositalari
+O'quv maqsad(lar)i	A: Tashkilotlar o'z faoliyatini qo'llab-quvvatlash uchun foydalanadigan jarayonlarni tadqiq qilish
+Topshiriq nomi	Biznesdagi o'zgarishlarni rejalashtirish
+Baholovchi	 
+Berilgan sana	 
+Topshirish muddati	 
+Kasbiy stsenariy yoki kontekst	Siz avtomobil ijarasi sohasida faoliyat yurituvchi o'rta hajmdagi kompaniyada amaliyot o'tash imkoniyatiga ega bo'ldingiz. Hozirgi kunda kompaniya buyurtmalari, mijozlar yozuvlari va avtomobillar mavjudligini boshqarish uchun asosan qo'lda bajariladigan jarayonlar va oddiy elektron jadvallardanfoydalanadi. Rahbariyat kompaniyaning axborot texnologilari darajasi cheklangan va eskirganligini tushunadi. Ular bu holat ish jarayonlarini sekinlashtirayotganidan, buyurtmalarda xatoliklarga sabab bo'layotganidan va mijozlar qoniqishini pasaytirayotganidan xavotirda. Sizdan zamonaviy texnologiyalar yordamida ularning biznes-jarayonlarini qanday yaxshilash mumkinligini, samaradorlikni oshirishni va kompaniyani bozorda yanada raqobatbardosh qilishni o'rganib chiqishingizni so'rashdi.
+Topshiriq 1.0	Kompaniya direktori sizdan unga va menejerlarga taqdimot tayyorlashingizni, bu taqdimotda texnologiyalardan tashkilot maqsadlariga erishishda qanday foydalanish mumkinligini baholashingizni so'radi. Taqdimotingiz quyidagilarni o'z ichiga olishi kerak:  — odatdagi tashkilotda uchraydigan biznes-jarayonlarning turlari va ular kompaniya ehtiyojlarini qanday qo'llab-quvvatlashini tushuntirish kerak;  — biznesda biznes-jarayonlarni qo'llab-quvvatlash uchun texnologiyadan qanday foydalanish mumkinligini tushuntirish va biznes-jarayonlar hamda texnologiyaning tashkilotga ta'sirini tahlil qilish.  Direktor shuningdek taqdimotga turli texnologiyalarning biznes-jarayonlarni yaxshilash va tashkilot ehtiyojlarini qondirishdagi samaradorligi bahosini kiritishingizni so'radi. Taqdimotingiz texnologiya biznes-jarayonlarni qanday yaxshilaganligi haqida real hayotdan misollarkeltirish kerak, taqdimotingizni muhokamasi aniq, va ravon bo'lishi kerak.
+Talab qilinadigan dalillar ro'yxati	Tugatilgan taqdimot
+
+Ushbu topshiriq qamrab oladigan mezonlar
+Bo'lim/Mezon	Mezonga erishish uchun siz quyidagilarni ko'rsata olishingiz kerak:
+A.D1	Tashkilot talablarini qo'llab-quvvatlovchi biznes-jarayonlarni yaxshilashda foydalanilgan texnologiyalarning samaradorligini baholash.
+A.M1	Tashkilot talablarini qo'llab-quvvatlash uchun biznes-jarayonlar va texnologiyalardan foydalanishning ta'sirini tahlil qilish.
+A.P1	Tashkilot talablarini qo'llab-quvvatlash uchun biznes-jarayonlarning turli turlaridan qanday foydalanilishini tushuntirish.
+A.P2	Texnologiyalarning biznes-jarayonlarni qo'llab-quvvatlashda qanday qo'llanilishini va ularning mumkin bo'lgan ta'sirini tushuntirish.
+
+2-qism: B va C o'quv maqsadlari
+O'quv maqsad(lar)i	B: Tashkilotning biznes-jarayonlari va faoliyatini yaxshilash uchun ularni o'rganish
+C: Tashkilotning biznes-jarayonlari va faoliyatini yaxshilash bo'yicha reja ishlab chiqish
+Topshiriq nomi	Biznesdagi o'zgarishlarni rejalashtirish
+Baholovchi	 
+Berilgan sana	 
+Topshirish muddati	 
+Kasbiy stsenariy yoki kontekst	Siz o'rta hajmdagi avtomobil ijarasi kompaniyasida amaliyot o'tash imkoniyatiga ega bo'ldingiz. Sizdan ularning buyurtma va ijara jarayonini yaxshilashda texnologiyadan qanday foydalanish mumkinligini o’rganib chiqishni so'rashdi. Hozirgi qog'oz va elektron jadvallarga asoslangan buyurtma tizimi sekin va xatoliklarga moyil. Kompaniya quyidagi imkoniyatlarga ega jarayonni xohlaydi:  — avtomobilga buyurtma berishni tez va oson qiladi, mijoz va ijara haqida zarur ma'lumotlarning to'g'ri yig'ilishini ta'minlaydi;  — bir vaqtning o'zida bitta avtomobilga ikki xil buyurtma berilishini yoki mavjud bo'lmagan avtomobilni tanlanishini oldini oladi;  — avtomobillar mavjudligi, narxlari, ijara muddati va mijoz ma'lumotlari haqidagi yozuvlar barcha xodimlar uchun ochiq bo'lishini ta'minlaydi;  — buyurtma holati va avtomobil qaytarish sanalari real vaqt rejimida yangilanishini ta'minlaydi.
+Topshiriq 1	Kompaniya direktoriga sizning biznes-jarayonlarni qo'llab-quvvatlash uchun texnologiyalardan foydalanish bo'yicha taqdimotingiz juda qiziq bo'ldi. Endi u sizdan avtomobil buyurtma jarayonini yaxshilash uchun, jumladan texnologiyadan foydalangan holda, reja ishlab chiqish va uni baholashni so'radi. Buning uchun siz quyidagi vazifalarni bajarishingiz kerak:  — Xodimlardan biri bilan uchrashuv o'tkazib, joriy buyurtma jarayonini muhokama qiling, ilova qilingan buyurtma shaklini ko'rib chiqing va muhokamalardan yozib boring.  — So'ngra:    • Joriy buyurtma jarayonining modelini (izohli diagramma) yarating.   • Joriy buyurtma tizimi va uning biznes talablariga qanday javob berishi haqida tahlil yozing.   • Mavjud jarayonda yaxshilash mumkin bo'lgan joylarni aniqlang.  — O'zgarishlarni boshqarish jarayonlaridan foydalangan holda, jumladan texnologiya yordamida biznes talablarini qondirish uchun buyurtma jarayonini yaxshilash bo'yicha reja ishlab chiqing.  — Kompaniya direktori bilan rejangizni ko'rib chiqish bo'yicha muhokamada qatnashing va aytilganlarni yozib oling. Muhokamadan so'ng, olingan fikr-mulohazalarga asoslanib rejangizni yaxshilang va fikr-mulohazalar rejani yaxshilashda qanchalik foydali bo'lganligi haqida baholash yozing.  — Yaxshilangan rejangizni direktor bilan ko'rib chiqing va rejada qabul qilgan qarorlaringizni asoslang. Tutoringiz dalil sifatida muhokamani yozib oladi.  — Mavjud buyurtma jarayonining modeli va uni yaxshilash bo'yicha rejangizni hisobga olgan holda, taklif qilingan yaxshilanishlar qanchalik samarali bo'lishi mumkinligini baholaydigan baholash yozing. Baholashingiz ham ijobiy, ham salbiy tomonlarni hisobga olishi, aniq, muvozanatli va ravon bo'lishi, aniq va o'lchanadigan real misollar bilan boyitilgan bo'lishi kerak.  Biznes-jarayonni yaxshilashni tadqiq qilish va rejalashtirishda shaxsiy javobgarlikni, samarali vaqtni boshqarishni va yuqori sifatli, asoslangan tavsiyalar va qarorlar qabul qilganligingizni ko'rsatadigan dalillar keltiring. Bunga topshiriqni bajarish bo'yicha vazifalar rejasi va tutoringizdan guvohnoma kiritilishi kerak. Masalan, siz quyidagilarni qanday bajarganingizni ko'rsatishingiz kerak:  • Vaqtingizni rejalashtirish va boshqarish hamda maqsadlarga erishish.  • Boshqalarning fikr-mulohazalaridan foydalanish, natijalarni ko'rib chiqish va ularga javob berish.  • Topshiriqni bajarish davomida professional, etikaga rioya qilgan, boshqalarni qo'llab-quvvatlovchi, o'z vaqtida yetakchilik qiluvchi, javobgar va shaxsiy mas'uliyatli bo'lib o'zini tutish.  • Yuqori sifatli, asoslangan tavsiyalar va qarorlar shakllantirish uchun natijalarni baholash.  • Tegishli muloqot usullaridan samarali foydalanish.
+Talab qilinadigan dalillar ro'yxati	— Biznes-jarayon modeli
+— Mavjud tizim tahlili
+— Asl yaxshilash rejasi
+— Muhokama yozuvlari
+— Yaxshilangan reja
+— Olingan fikr-mulohazalarning foydaliligini baholash
+— Qarorlarni asoslash yozuvi
+— Model va rejaning baholashi
+
+Ushbu topshiriq qamrab oladigan mezonlar
+Bo'lim/Mezon	Mezonga erishish uchun siz quyidagilarni ko'rsata olishingiz kerak:
+BC.D2	Modelga qarshi rejani baholash, yangi biznes-jarayon va faoliyatlarning samaradorligini ko'rsatish.
+B.M2	Mavjud biznes-jarayon tashkilot talablarini qanday qo'llab-quvvatlashini tahlil qilish.
+C.M3	Biznes-jarayonni yaxshilash rejasida qabul qilingan qarorlarni asoslash.
+B.P3	Tashkilot talablarini qo'llab-quvvatlovchi mavjud biznes-jarayon uchun aniq model ishlab chiqish.
+B.P4	Tashkilot talablarini qo'llab-quvvatlash uchun ishlatiladigan mavjud biznes-jarayonni baholash va potensial yaxshilanishlarni aniqlash.
+C.P5	Tashkilot talablarini qo'llab-quvvatlovchi texnologiya va o'zgarishlarni boshqarish yordamida biznes-jarayonni yaxshilash bo'yicha reja ishlab chiqish.
+C.P6	Tashkilot talablarini qo'llab-quvvatlovchi biznes-jarayon va faoliyatlarni yaxshilash rejasini takomillashtirish uchun fikr-mulohazalardan qanday foydalanilganligini baholash.
+
+Topshiriqda yordam beruvchi axborot manbalari	Kitoblar:
+Johnston, G. Business Process Re-engineering, Amazon Media EU S.à r.l. (Kindle Book — ASIN: B0076WBWI4)
+Worthington, I. va Britton, C. The Business Environment. Pearson, 2014, ISBN-13: 978-0273756729
+Ould, M. Business Process Management: A Rigorous Approach. BCS, 2005. ISBN-13: 978-1902505602
+Topshiriq bayonnomasiga ilova qilingan boshqa baholash materiallari	— Buyurtma shakli namunasi
+— Buyurtma jarayoni
+
+Avtomobil ijarasi kompaniyasi — Buyurtma shakli
+Sana	Buyurtmani qabul qilgan xodim
+Mijozning ism-familiyasi	 
+Manzil	 
+Shahar	 
+Pochta indeksi	 
+Aloqa raqami	 
+
+Tanlangan avtomobil variantlari
+Variant	Tanlangan	Narxi	Mavjudligi
+Avtomobil turi (SUV, sedan va h.k.)	 	 	 
+Ijara muddati	 	 	 
+Olib ketish joyi	 	 	 
+Topshirish joyi	 	 	 
+Sug'urta varianti	 	 	 
+GPS / qo'shimcha xizmatlar	 	 	 
+
+Umumiy narx: __________________________
+Izohlar: __________________________
+Olib ketish sanasi: __________________________
+Qaytarish sanasi: __________________________
+Imzo: __________________________
+Buyurtma jarayoni
+Mijozlar avtomobil mavjudligini so'rash uchun kompaniyaga telefon, elektron pochta, vebsayt orqali yoki shaxsan murojaat qiladi.
+Xodimlar bosib chiqarilgan ro'yxatlar yoki elektron jadvallardan foydalangan holda mavjud avtomobillar haqida ma'lumot beradilar; biroq bu ma'lumotlar har doim ham yangilanmagan bo'lishi mumkin.
+Mijozlar avtomobilni tanlaydi va buyurtma tafsilotlarini qo'lda taqdim etadi (masalan, sanalar, afzalliklar, qo'shimcha xizmatlar).
+Xodimlar buyurtma tafsilotlarini o'sha paytda mavjud tizimga qarab qog'ozda yoki elektron jadvallarda yozib oladi.
+Xodimlar avtomobil mavjudligini qo'lda tekshiradi:
+•Agar bir xil avtomobilga bir nechta so'rov mavjud bo'lsa, ustunlik so'rov vaqtiga qarab beriladi (har doim ham aniq kuzatilmaydi).
+•Agar avtomobil mavjud bo'lib ko'rinsa, vaqtinchalik buyurtma bosqichiga o'tiladi.
+•Agar avtomobil mavjud bo'lmasa, xodimlar muqobil variantlarni taklif qiladi va tanlash bosqichiga qaytadi.
+Vaqtinchalik buyurtma yaratiladi:
+•Xodimlar avtomobilni vaqtincha bron qiladi (har doim ham boshqa xodimlarga ko'rinmaydi).
+•Tafsilotlarni tasdiqlash uchun mijozga qayta murojaat qilinishi mumkin.
+Yakuniy tasdiqdan oldin xodimlar mavjudlikni qayta tekshirishga harakat qiladi:
+•Agar ziddiyat aniqlansa (ikki marta buyurtma berilgan bo'lsa), jarayon avtomobilni tanlash bosqichiga qaytadi.
+•Agar ziddiyat bo'lmasa, buyurtma tasdiqlanadi.
+Tasdiqlangandan so'ng:
+•Xodimlar olib ketish va qaytarish sanalarini belgilaydi.
+•Qo'shimcha xizmatlar (sug'urta, GPS va h.k.) so'ralganda qo'lda qo'shiladi.
+Mijozlar avtomobilni olib ketish uchun keladi:
+•Xodimlar buyurtma tafsilotlarini qayta tekshiradi.
+•Mijoz jismoniy hujjatlarni imzolaydi.
+•Agar nomuvofiqlik aniqlansa, davom ettirishdan oldin tuzatishlar qo'lda kiritiladi.
+Ijara davomida:
+•Har qanday o'zgarishlar (masalan, ijarani uzaytirish) qo'lda qayta ishlanishi kerak va barcha yozuvlar bo'yicha darhol yangilanmasligi mumkin.
+Avtomobil qaytarilgandan keyin:
+•Xodimlar avtomobilni ko'zdan kechiradi va yozuvlarni qo'lda yangilaydi.
+•Yakuniy to'lovlar hisoblanadi va kerak bo'lsa tuzatiladi.
+Barcha buyurtma hujjatlari va yangilanishlari jismoniy ravishda saqlanadi (qog'oz shakllar) va qisman elektron jadvallarda yoki oddiy raqamli fayllarda qayd etiladi.
+Vaqti-vaqti bilan xodimlar nomuvofiqliklarni bartaraf etish uchun qog'oz yozuvlarni raqamli yozuvlar bilan solishtiradilar (bu bosqich ko'p vaqt talab qiladi va xatolarga moyil).
+
